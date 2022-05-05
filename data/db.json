@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Simply Tabitha",
+      "body": "Tabitha's personal blog is a stellar example of how sharing your thoughts and advice online is a powerful engine for building your brand.\n\nShe doesn’t simply dish out fashion and beauty advice to her audience of mommas and mommas-to-be; she also hands over the tools to make it all happen with a “Shop the Post” widget. Placed at the end of blog posts, this widget allows viewers to replicate her look. And with Pinterest's Save buttons hovering over each picture, fans can keep her glamorous aesthetic on hand for inspiration. ",
+      "author": "yoshi",
+      "id": 5
+    },
+    {
+      "title": "Shot from the Street",
+      "body": "What is a blog, anyway? There’s more than one way to answer that question, and Lizzy Hadfield provides an especially photogenic one. This fashion blog example serves as the visual diary of a stylish fashionista and marketing influencer. \n\nArranging her images and posts in a grid website layout, Lizzy fills up the screen with softly colored photographs that retain a cohesive visual language. This layout looks just as great on her mobile website, too, with the different posts compiled into one long, full-screen scroll.\n\nIn addition, she uses her blog as a tool to promote her social media accounts and build engagement with her brand. In the menu bar at the top, she has a separate section called Follow that links directly to her Instagram, YouTube and Twitter pages.",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "Programiranje u buducnosti",
+      "body": "Školovanjem na Programming odseku pripremićete se za rad na celokupnom procesu projektovanja, izrade i implementacije softvera, od početne analize, planiranja i dizajna, preko kodiranja i testiranja, do instalacije i održavanja softvera na mestu njegovog korišćenja.",
+      "author": "mario",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "artist": "Bonzana",
+      "name": "Amazon",
+      "version": "(Extended Mix)",
+      "thumb": "../img/bonzana-amazon-extended-mix.jpg",
+      "audio": "../audio/bonzana-amazon-extended-mix.mp3"
+    },
+    {
+      "id": 2,
+      "artist": "Chullo",
+      "name": "I need you",
+      "version": "(Official Version)",
+      "thumb": "../img/chullo-i-need-you.jpg",
+      "audio": "../audio/i-need-you.mp3"
+    },        
+    {
+      "id": 3,
+      "artist": "Daft Punk",
+      "name": "Lose Yourself to Dance",
+      "version": "(Official Version)",
+      "thumb": "../img/daft-punk-lose-yourself-to-dance-Official-version.jpg",
+      "audio": "../audio/Daft Punk - Lose Yourself to Dance (Official Version).mp3"
+    },        
+    {
+      "id": 4,
+      "artist": "Dom Dolla",
+      "name": "Take it",
+      "version": "(Extended Mix)",
+      "thumb": "../img/dom-dolla-take-it-extended-mix.jpg",
+      "audio": "../audio/Dom Dolla - Take It (Extended Mix).mp3"
+    },        
+    {
+      "id": 5,
+      "artist": "Lucas Estrada",
+      "name": "Lovespeake - Body",
+      "version": "(Official Version)",
+      "thumb": "../img/lucasestrada-lovespeak-body.jpg",
+      "audio": "../audio/Lucas Estrada & Lovespeak - Body.mp3"
+    },        
+    {
+      "id": 6,
+      "artist": "Max Oazo ft. Camishe",
+      "name": "Wicked game",
+      "version": "(Official Version)",
+      "thumb": "../img/max-oazo-ft.camishe-wicked-game.jpg",
+      "audio": "../audio/Max Oazo ft. Camishe - Wicked Game.mp3"
+    },        
+    {
+      "id": 7,
+      "artist": "Osborne",
+      "name": "Ocean floor",
+      "version": "(Official Version)",
+      "thumb": "../img/osborne-ocean-floor.jpg",
+      "audio": "../audio/Ocean Floor.mp3"
+    },        
+    {
+      "id": 8,
+      "artist": "Stoto",
+      "name": "I never really cared",
+      "version": "(Official Version)",
+      "thumb": "../img/stoto-i-never-really-cared.jpg",
+      "audio": "../audio/Stoto - I Never Really Cared.mp3"
+    },        
+    {
+      "id": 9,
+      "artist": "Stoto",
+      "name": "Late night",
+      "version": "(Official Version)",
+      "thumb": "../img/stoto-late-night.jpg",
+      "audio": "../audio/Stoto - Late Night.mp3"
+    }
+  ]  
+}
